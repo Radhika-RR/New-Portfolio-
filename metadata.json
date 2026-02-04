@@ -1,0 +1,8 @@
+{
+  "name": "Radhika Rajagoli - AI/ML Portfolio",
+  "description": "A high-performance, responsive portfolio for an AI/ML intern featuring project showcases, skills visualization, and a Gemini-powered resume assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
